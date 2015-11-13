@@ -1,2 +1,3 @@
 this is first deployment
 ver1 from vm
+bug 1 from pc
